@@ -49,7 +49,7 @@ body{
 }
 
 #showcase h1{
-    color: white;
+    color: black;
     margin-top:0 ;
     margin-left: auto;
     margin-right: auto;
@@ -59,7 +59,7 @@ body{
 }
 
 #showcase p{
-    color: white;
+    color: black;
     margin-top:0 ;
     margin-left: auto;
     margin-right: auto;
@@ -72,4 +72,11 @@ a{
 }
 a:hover, a:active, a:focus {
     color:black !important;
+}
+
+.fa-github{
+    color: red;
+}
+.fa-github:hover, .fa-github:active, .fa-github:focus{
+    color: lightcoral;
 }
